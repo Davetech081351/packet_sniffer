@@ -1,0 +1,13 @@
+[CLIENT] 0x3c0003d
+  [CLIENT_ID] 23d9cb39e-fbf0-47a7-8f82-386c694fbe5d
+  [CLIENT_LEADER] 0x3c00001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox-esr
+  [WM_NAME] Nessus / Download Failed — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox-esr"
+  [GEOMETRY] (0,35,1360,569)
+  [GEOMETRY-MAXIMIZED] (-24,13,1092,561)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
