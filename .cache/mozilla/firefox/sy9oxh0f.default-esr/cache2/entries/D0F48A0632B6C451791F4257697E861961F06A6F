@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://activity-stream/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Thu, 17 Apr 2025 21:48:51 GMT -->
+  <!-- Cached: Sat, 19 Apr 2025 14:33:53 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -29,9 +29,9 @@ window.__STARTUP_STATE__ = {
 		"rows": [
 			{
 				"bookmarkGuid": null,
-				"frecency": 8175,
+				"frecency": 16038,
 				"guid": "i67NhURBUZ76",
-				"lastVisitDate": 1743623018799,
+				"lastVisitDate": 1745072080495,
 				"title": "Exido-Rio/zphisher-: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !",
 				"url": "https://github.com/Exido-Rio/zphisher-",
 				"type": "history",
@@ -48,19 +48,19 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 3675,
+				"frecency": 3583,
 				"guid": "zZne8FYsE5U1",
 				"lastVisitDate": 1738707919830,
 				"title": "Nessus",
 				"url": "https://localhost:8834/",
 				"type": "history",
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Flocalhost%3A8834%2F&revision=1853",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Flocalhost%3A8834%2F&revision=2089",
 				"hostname": "localhost",
 				"typedBonus": true
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 1716,
+				"frecency": 1673,
 				"guid": "Yx2yh2a2xgd5",
 				"lastVisitDate": 1738706715496,
 				"title": "Tenable Nessus Essentials Vulnerability Scanner | TenableÂ®",
@@ -79,19 +79,19 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 1400,
+				"frecency": 1365,
 				"guid": "imkUZrESBx3B",
 				"lastVisitDate": 1731489494507,
 				"title": "Just a moment...",
 				"url": "https://scamadviser.com/",
 				"type": "history",
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fscamadviser.com%2F&revision=7106",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fscamadviser.com%2F&revision=7892",
 				"hostname": "scamadviser",
 				"typedBonus": true
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 1367,
+				"frecency": 1333,
 				"guid": "IZBnNphN_lFt",
 				"lastVisitDate": 1731505094002,
 				"title": "Log In â€¢ Snapchat",
@@ -110,7 +110,7 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 1333,
+				"frecency": 1300,
 				"guid": "rg4VPtMPzJSA",
 				"lastVisitDate": 1731489321240,
 				"title": "Femtech Information Technology Deals In Sales, Repair & Maintenance of Laptops, Desktops, Home Electronics, Solar Inverters, Mobile Phones",
@@ -129,25 +129,25 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 1300,
+				"frecency": 1268,
 				"guid": "CTfXJjzkG-Bs",
 				"lastVisitDate": 1731095965881,
 				"title": "Ridamsub - Buy Airtime and Data for all Network. Make payment for DSTV, GOTV, PHCN and other services",
 				"url": "http://ridamsub.com/",
 				"type": "history",
-				"screenshot": "moz-page-thumb://thumbnails/?url=http%3A%2F%2Fridamsub.com%2F&revision=1018",
+				"screenshot": "moz-page-thumb://thumbnails/?url=http%3A%2F%2Fridamsub.com%2F&revision=4368",
 				"hostname": "ridamsub",
 				"typedBonus": true
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 899,
+				"frecency": 877,
 				"guid": "DA5wbfikRPUX",
 				"lastVisitDate": 1738707291099,
 				"title": "Just a moment...",
 				"url": "https://temp-mail.org/en/",
 				"type": "history",
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Ftemp-mail.org%2Fen%2F&revision=5894",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Ftemp-mail.org%2Fen%2F&revision=1393",
 				"hostname": "temp-mail",
 				"typedBonus": true
 			}
@@ -196,9 +196,9 @@ window.__STARTUP_STATE__ = {
 		"links": [
 			{
 				"bookmarkGuid": null,
-				"frecency": 8175,
+				"frecency": 16038,
 				"guid": "i67NhURBUZ76",
-				"lastVisitDate": 1743623018799,
+				"lastVisitDate": 1745072080495,
 				"title": "Exido-Rio/zphisher-: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !",
 				"url": "https://github.com/Exido-Rio/zphisher-",
 				"type": "history",
@@ -215,19 +215,19 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 3675,
+				"frecency": 3583,
 				"guid": "zZne8FYsE5U1",
 				"lastVisitDate": 1738707919830,
 				"title": "Nessus",
 				"url": "https://localhost:8834/",
 				"type": "history",
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Flocalhost%3A8834%2F&revision=1853",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Flocalhost%3A8834%2F&revision=2089",
 				"hostname": "localhost",
 				"typedBonus": true
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 1716,
+				"frecency": 1673,
 				"guid": "Yx2yh2a2xgd5",
 				"lastVisitDate": 1738706715496,
 				"title": "Tenable Nessus Essentials Vulnerability Scanner | TenableÂ®",
@@ -246,19 +246,19 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 1400,
+				"frecency": 1365,
 				"guid": "imkUZrESBx3B",
 				"lastVisitDate": 1731489494507,
 				"title": "Just a moment...",
 				"url": "https://scamadviser.com/",
 				"type": "history",
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fscamadviser.com%2F&revision=7106",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fscamadviser.com%2F&revision=7892",
 				"hostname": "scamadviser",
 				"typedBonus": true
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 1367,
+				"frecency": 1333,
 				"guid": "IZBnNphN_lFt",
 				"lastVisitDate": 1731505094002,
 				"title": "Log In â€¢ Snapchat",
@@ -277,7 +277,7 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 1333,
+				"frecency": 1300,
 				"guid": "rg4VPtMPzJSA",
 				"lastVisitDate": 1731489321240,
 				"title": "Femtech Information Technology Deals In Sales, Repair & Maintenance of Laptops, Desktops, Home Electronics, Solar Inverters, Mobile Phones",
@@ -296,25 +296,25 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 1300,
+				"frecency": 1268,
 				"guid": "CTfXJjzkG-Bs",
 				"lastVisitDate": 1731095965881,
 				"title": "Ridamsub - Buy Airtime and Data for all Network. Make payment for DSTV, GOTV, PHCN and other services",
 				"url": "http://ridamsub.com/",
 				"type": "history",
-				"screenshot": "moz-page-thumb://thumbnails/?url=http%3A%2F%2Fridamsub.com%2F&revision=1018",
+				"screenshot": "moz-page-thumb://thumbnails/?url=http%3A%2F%2Fridamsub.com%2F&revision=4368",
 				"hostname": "ridamsub",
 				"typedBonus": true
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 899,
+				"frecency": 877,
 				"guid": "DA5wbfikRPUX",
 				"lastVisitDate": 1738707291099,
 				"title": "Just a moment...",
 				"url": "https://temp-mail.org/en/",
 				"type": "history",
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Ftemp-mail.org%2Fen%2F&revision=5894",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Ftemp-mail.org%2Fen%2F&revision=1393",
 				"hostname": "temp-mail",
 				"typedBonus": true
 			}
@@ -779,7 +779,7 @@ window.__STARTUP_STATE__ = {
 		},
 		"spocs": {
 			"spocs_endpoint": "https://spocs.getpocket.com/spocs",
-			"lastUpdated": 1744920593856,
+			"lastUpdated": 1745047782397,
 			"data": {},
 			"loaded": true,
 			"frequency_caps": [],
@@ -808,4 +808,4 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-–…4¨0fÿD           hwDH]Ùÿÿÿÿ       :about:home alt-data 1;124870,script version 20240703222632  	7:
+ÏgcéŒfúûÕ           h´QHëÿÿÿÿ       :about:home alt-data 1;124870,script version 20240703222632  	7<

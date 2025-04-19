@@ -1,4 +1,4 @@
-Xsession: X session started for kali at Thu Apr 17 16:09:40 EDT 2025
+Xsession: X session started for kali at Sat Apr 19 03:29:14 EDT 2025
 dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
 dbus-update-activation-environment: setting DISPLAY=:0
 dbus-update-activation-environment: setting XAUTHORITY=/home/kali/.Xauthority
@@ -34,24 +34,29 @@ dbus-update-activation-environment: setting PWD=/home/kali
 dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
 /usr/bin/x-session-manager: X server already running on display :0
 /usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
-xfce4-session-Message: 16:09:40.801: SSH authentication agent is already running
+xfce4-session-Message: 03:29:15.127: SSH authentication agent is already running
 gpg-agent: a gpg-agent is already running - not starting a new one
 
-(xfwm4:1257): xfwm4-WARNING **: 16:09:41.299: Unsupported GL renderer (llvmpipe (LLVM 17.0.6, 256 bits)).
+(xfwm4:1258): xfwm4-WARNING **: 03:29:15.790: Unsupported GL renderer (llvmpipe (LLVM 17.0.6, 256 bits)).
 Xfce power manager is not running
 
-** (xiccd:1427): WARNING **: 16:09:46.274: EDID is empty
+** (xiccd:1453): WARNING **: 03:29:26.754: EDID is empty
 Xfce Power Manager: Another power manager is already running
 
-(polkit-mate-authentication-agent-1:1484): GLib-CRITICAL **: 16:09:47.451: g_variant_new_string: assertion 'string != NULL' failed
+(polkit-mate-authentication-agent-1:1531): GLib-CRITICAL **: 03:29:27.883: g_variant_new_string: assertion 'string != NULL' failed
 
-(polkit-mate-authentication-agent-1:1484): polkit-mate-1-WARNING **: 16:09:47.455: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+(polkit-mate-authentication-agent-1:1531): polkit-mate-1-WARNING **: 03:29:27.915: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
 
-(vmware-user:1503): Gtk-WARNING **: 16:09:48.927: gtk_disable_setlocale() must be called before gtk_init()
-blueman-applet 16.09.51 WARNING  PluginManager:150 __load_plugin: Not loading PPPSupport because its conflict has higher priority
-blueman-applet 16.09.51 WARNING  PluginManager:150 __load_plugin: Not loading DhcpClient because its conflict has higher priority
-blueman-applet 16.09.51 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
+(vmware-user:1546): Gtk-WARNING **: 03:29:30.834: gtk_disable_setlocale() must be called before gtk_init()
+blueman-applet 03.29.36 WARNING  PluginManager:150 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 03.29.36 WARNING  PluginManager:150 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 03.29.36 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
 virtual KPtyProcess::~KPtyProcess() the terminal process is still running, trying to stop it by SIGHUP
 libEGL warning: DRI2: failed to authenticate
 MESA: error: ZINK: failed to choose pdev
 libEGL warning: egl: failed to create dri2 screen
+virtual KPtyProcess::~KPtyProcess() the terminal process is still running, trying to stop it by SIGHUP
+virtual KPtyProcess::~KPtyProcess() the terminal process is still running, trying to stop it by SIGHUP
+virtual KPtyProcess::~KPtyProcess() the terminal process is still running, trying to stop it by SIGHUP
+virtual KPtyProcess::~KPtyProcess() the terminal process is still running, trying to stop it by SIGHUP
+virtual KPtyProcess::~KPtyProcess() the terminal process is still running, trying to stop it by SIGHUP
