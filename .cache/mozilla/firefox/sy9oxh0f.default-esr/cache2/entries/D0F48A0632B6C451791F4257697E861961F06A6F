@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://activity-stream/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Sat, 19 Apr 2025 14:33:53 GMT -->
+  <!-- Cached: Sat, 19 Apr 2025 20:30:40 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -29,9 +29,9 @@ window.__STARTUP_STATE__ = {
 		"rows": [
 			{
 				"bookmarkGuid": null,
-				"frecency": 16038,
+				"frecency": 19589,
 				"guid": "i67NhURBUZ76",
-				"lastVisitDate": 1745072080495,
+				"lastVisitDate": 1745094342658,
 				"title": "Exido-Rio/zphisher-: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !",
 				"url": "https://github.com/Exido-Rio/zphisher-",
 				"type": "history",
@@ -54,7 +54,7 @@ window.__STARTUP_STATE__ = {
 				"title": "Nessus",
 				"url": "https://localhost:8834/",
 				"type": "history",
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Flocalhost%3A8834%2F&revision=2089",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Flocalhost%3A8834%2F&revision=7953",
 				"hostname": "localhost",
 				"typedBonus": true
 			},
@@ -85,7 +85,7 @@ window.__STARTUP_STATE__ = {
 				"title": "Just a moment...",
 				"url": "https://scamadviser.com/",
 				"type": "history",
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fscamadviser.com%2F&revision=7892",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fscamadviser.com%2F&revision=3442",
 				"hostname": "scamadviser",
 				"typedBonus": true
 			},
@@ -135,7 +135,7 @@ window.__STARTUP_STATE__ = {
 				"title": "Ridamsub - Buy Airtime and Data for all Network. Make payment for DSTV, GOTV, PHCN and other services",
 				"url": "http://ridamsub.com/",
 				"type": "history",
-				"screenshot": "moz-page-thumb://thumbnails/?url=http%3A%2F%2Fridamsub.com%2F&revision=4368",
+				"screenshot": "moz-page-thumb://thumbnails/?url=http%3A%2F%2Fridamsub.com%2F&revision=5451",
 				"hostname": "ridamsub",
 				"typedBonus": true
 			},
@@ -147,7 +147,7 @@ window.__STARTUP_STATE__ = {
 				"title": "Just a moment...",
 				"url": "https://temp-mail.org/en/",
 				"type": "history",
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Ftemp-mail.org%2Fen%2F&revision=1393",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Ftemp-mail.org%2Fen%2F&revision=954",
 				"hostname": "temp-mail",
 				"typedBonus": true
 			}
@@ -196,9 +196,9 @@ window.__STARTUP_STATE__ = {
 		"links": [
 			{
 				"bookmarkGuid": null,
-				"frecency": 16038,
+				"frecency": 19589,
 				"guid": "i67NhURBUZ76",
-				"lastVisitDate": 1745072080495,
+				"lastVisitDate": 1745094342658,
 				"title": "Exido-Rio/zphisher-: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !",
 				"url": "https://github.com/Exido-Rio/zphisher-",
 				"type": "history",
@@ -221,7 +221,7 @@ window.__STARTUP_STATE__ = {
 				"title": "Nessus",
 				"url": "https://localhost:8834/",
 				"type": "history",
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Flocalhost%3A8834%2F&revision=2089",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Flocalhost%3A8834%2F&revision=7953",
 				"hostname": "localhost",
 				"typedBonus": true
 			},
@@ -252,7 +252,7 @@ window.__STARTUP_STATE__ = {
 				"title": "Just a moment...",
 				"url": "https://scamadviser.com/",
 				"type": "history",
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fscamadviser.com%2F&revision=7892",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fscamadviser.com%2F&revision=3442",
 				"hostname": "scamadviser",
 				"typedBonus": true
 			},
@@ -302,7 +302,7 @@ window.__STARTUP_STATE__ = {
 				"title": "Ridamsub - Buy Airtime and Data for all Network. Make payment for DSTV, GOTV, PHCN and other services",
 				"url": "http://ridamsub.com/",
 				"type": "history",
-				"screenshot": "moz-page-thumb://thumbnails/?url=http%3A%2F%2Fridamsub.com%2F&revision=4368",
+				"screenshot": "moz-page-thumb://thumbnails/?url=http%3A%2F%2Fridamsub.com%2F&revision=5451",
 				"hostname": "ridamsub",
 				"typedBonus": true
 			},
@@ -314,7 +314,7 @@ window.__STARTUP_STATE__ = {
 				"title": "Just a moment...",
 				"url": "https://temp-mail.org/en/",
 				"type": "history",
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Ftemp-mail.org%2Fen%2F&revision=1393",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Ftemp-mail.org%2Fen%2F&revision=954",
 				"hostname": "temp-mail",
 				"typedBonus": true
 			}
@@ -779,7 +779,7 @@ window.__STARTUP_STATE__ = {
 		},
 		"spocs": {
 			"spocs_endpoint": "https://spocs.getpocket.com/spocs",
-			"lastUpdated": 1745047782397,
+			"lastUpdated": 1745093675228,
 			"data": {},
 			"loaded": true,
 			"frequency_caps": [],
@@ -808,4 +808,4 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-ÏgcéŒfúûÕ           h´QHëÿÿÿÿ       :about:home alt-data 1;124870,script version 20240703222632  	7<
+£[¢éè¡È¬À           hðH%ÿÿÿÿ       :about:home alt-data 1;124870,script version 20240703222632  	7:
