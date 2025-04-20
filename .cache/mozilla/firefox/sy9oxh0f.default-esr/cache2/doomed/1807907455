@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://activity-stream/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Sat, 19 Apr 2025 20:25:40 GMT -->
+  <!-- Cached: Sat, 19 Apr 2025 22:52:56 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -29,9 +29,9 @@ window.__STARTUP_STATE__ = {
 		"rows": [
 			{
 				"bookmarkGuid": null,
-				"frecency": 16038,
+				"frecency": 19589,
 				"guid": "i67NhURBUZ76",
-				"lastVisitDate": 1745072080495,
+				"lastVisitDate": 1745094342658,
 				"title": "Exido-Rio/zphisher-: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !",
 				"url": "https://github.com/Exido-Rio/zphisher-",
 				"type": "history",
@@ -196,9 +196,9 @@ window.__STARTUP_STATE__ = {
 		"links": [
 			{
 				"bookmarkGuid": null,
-				"frecency": 16038,
+				"frecency": 19589,
 				"guid": "i67NhURBUZ76",
-				"lastVisitDate": 1745072080495,
+				"lastVisitDate": 1745094342658,
 				"title": "Exido-Rio/zphisher-: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !",
 				"url": "https://github.com/Exido-Rio/zphisher-",
 				"type": "history",
@@ -808,4 +808,4 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-bØÄÖÒu¦À           hÄH$6ÿÿÿÿ       :about:home alt-data 1;124870,script version 20240703222632  	7:
+¥š2’3È¬À           h)HH<"ÿÿÿÿ       :about:home alt-data 1;124870,script version 20240703222632  	7:
